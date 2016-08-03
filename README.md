@@ -78,6 +78,7 @@ Android 手册
 ---
 
 ## K
++ [开发规范](http://keeganlee.me/post/android/20150709)
 
 ---
 
