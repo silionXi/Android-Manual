@@ -50,6 +50,7 @@ Android 手册
 ---
 
 ## D
++ [如何提高Android代码质量和语法](https://github.com/silionXi/gold-miner/blob/master/TODO/how-to-improve-quality-and-syntax-of-your-android-code.md)
 
 ---
 
@@ -62,6 +63,7 @@ Android 手册
 ---
 
 ## G
++ [开发规范](http://keeganlee.me/post/android/20150709)
 
 ---
 
@@ -78,7 +80,6 @@ Android 手册
 ---
 
 ## K
-+ [开发规范](http://keeganlee.me/post/android/20150709)
 
 ---
 
