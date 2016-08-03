@@ -3,6 +3,7 @@ Android 手册
 
 ## 网上收集
 + [Android-Tips](https://github.com/silionXi/Android-Tips)
++ [AndroidTips](https://github.com/silionXi/AndroidTips)
 
 ## 个人整理
 * [A](#a)
