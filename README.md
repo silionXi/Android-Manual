@@ -40,6 +40,8 @@ Android 手册
 
 ## A
 + [Android support包(Support Library Features)](https://developer.android.com/topic/libraries/support-library/features.html)
++ [Android样式的开发:View Animation篇](http://keeganlee.me/post/android/20151003)
++ [Android样式的开发:Property Animation篇](http://keeganlee.me/post/android/20151026)
 
 ---
 
@@ -53,6 +55,7 @@ Android 手册
 
 ## D
 + [如何提高Android代码质量和语法](https://github.com/silionXi/gold-miner/blob/master/TODO/how-to-improve-quality-and-syntax-of-your-android-code.md)
++ [Android样式的开发:drawable汇总篇](http://keeganlee.me/post/android/20150916)
 
 ---
 
@@ -86,6 +89,7 @@ Android 手册
 ---
 
 ##L
++ [Android样式的开发:layer-list篇](http://keeganlee.me/post/android/20150909)
 
 ---
 
@@ -114,6 +118,9 @@ Android 手册
 ---
 
 ## S
++ [Android样式的开发:shape篇](http://keeganlee.me/post/android/20150830)
++ [Android样式的开发:selector篇](http://keeganlee.me/post/android/20150905)
++ [Android样式的开发:Style篇](http://keeganlee.me/post/android/20151031)
 
 ---
 
@@ -138,6 +145,7 @@ Android 手册
 ---
 
 ## Y
++ [Android样式开发](http://keeganlee.me/post/android/20150830)
 
 ---
 
