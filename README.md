@@ -69,6 +69,7 @@ Android 手册
 
 ## G
 + [开发规范](http://keeganlee.me/post/android/20150709)
++ [Gradle下载](https://gradle.org/gradle-download/)
 
 ---
 
