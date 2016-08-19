@@ -64,6 +64,7 @@ Android 手册
 ---
 
 ## F
++ [分享 Shared SDK](http://www.mob.com/#/)
 
 ---
 
