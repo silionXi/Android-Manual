@@ -42,6 +42,8 @@ Android 手册
 + [Android support包(Support Library Features)](https://developer.android.com/topic/libraries/support-library/features.html)
 + [Android样式的开发:View Animation篇](http://keeganlee.me/post/android/20151003)
 + [Android样式的开发:Property Animation篇](http://keeganlee.me/post/android/20151026)
++ [Android简便通用的SimpleBaseAdapter](http://stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
++ [Android打造万能的ListView GridView 适配器](http://m.blog.csdn.net/article/details?id=38902805)
 
 ---
 
@@ -93,6 +95,7 @@ Android 手册
 
 ##L
 + [Android样式的开发:layer-list篇](http://keeganlee.me/post/android/20150909)
++ [ListView:Android简便通用的SimpleBaseAdapter](http://stormzhang.com/androidtips/2014/08/31/android-common-simplebaseadapter/)
 
 ---
 
